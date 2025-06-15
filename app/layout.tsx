@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   description: 'Portfólio de Nicolas Ribeiro de Paula - Designer Gráfico especializado em branding, design editorial, web design e produção gráfica.',
   keywords: 'designer gráfico, branding, design editorial, web design, São Paulo, portfólio',
   authors: [{ name: 'Nicolas Ribeiro de Paula' }],
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
   openGraph: {
     title: 'Nicolas Ribeiro de Paula - Designer Gráfico',
     description: 'Portfólio de Nicolas Ribeiro de Paula - Designer Gráfico especializado em branding, design editorial, web design e produção gráfica.',
